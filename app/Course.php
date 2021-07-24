@@ -17,5 +17,5 @@ class Course extends Model
     public function lembaga()
     {
         return $this->belongsTo(Institution::class, 'institution_id');
-    }
+    }   
 }

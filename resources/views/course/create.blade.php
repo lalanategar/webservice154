@@ -26,8 +26,8 @@
                             <div class="form-group">
                                 <label for="">Institution</label>
                                 <select name="institution_id" id="" class="form-control">
-                                    <option value="1">LP3K</option>
-                                    <option value="2">UBG</option>
+                                    <option value="1">UBG</option>
+                                    <option value="2">STMIK</option>
                                 </select>
                             </div>
                             <input type="submit" name="submit" value="Save Course" class="btn btn-primary">
